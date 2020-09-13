@@ -11,4 +11,8 @@ cca_cluster.py calls the regularized cca implementation from cca.py and computes
 analyze_cca.py makes the plots.
 
 ## Videos
+We can reconstruct and visualize the movements of the faces, that each components learn to extract.
 
+![](https://github.com/NicolaiP/Advanced-Topics-in-Machine-Learning/blob/master/videos/original.gif)
+![](https://github.com/NicolaiP/Advanced-Topics-in-Machine-Learning/blob/master/videos/component1.gif)
+![](https://github.com/NicolaiP/Advanced-Topics-in-Machine-Learning/blob/master/videos/component2.gif)
